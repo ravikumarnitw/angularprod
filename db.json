@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "3",
+      "email": "Black Widow",
+      "phone": "001-123-4568"
+    },
+    {
+      "id": "6",
+      "name": "ssd",
+      "email": "sdsdsad",
+      "phone": "928228"
+    },
+    {
+      "id": 1,
+      "name": "thyr",
+      "email": "fefwe",
+      "phone": "werewr"
+    }
+  ]
+}
